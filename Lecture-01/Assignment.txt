@@ -1,0 +1,11 @@
++++++++++++++++++++++++++++++++++++++++
+++   LECTURE: Values and Variables   ++
++++++++++++++++++++++++++++++++++++++++
+
+1. Declare variables called 
+    a. Country
+    b. Continent
+    c. Population
+    and assign their Values according to your own country.
+
+2. Log their values to the console.
